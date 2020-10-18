@@ -35,6 +35,7 @@ They were so kind and recommended me so many authors and books, and I decided to
 ### Websites:
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript  
+https://javascript.info/  
 https://ultimatecourses.com/  
 https://frontendmasters.com/  
 https://www.javascriptteacher.com/jsg
